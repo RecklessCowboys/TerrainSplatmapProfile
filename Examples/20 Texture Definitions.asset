@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d15cb4882f2e8cc41bd9a58dbc2aa897, type: 3}
+  m_Name: 20 Texture Definitions
+  m_EditorClassIdentifier: 
+  target: {fileID: 15600000, guid: 7bab07b7cfe3da94ab2d59b692aa1beb, type: 2}
+  textureDefinitions:
+  - alphamap: {fileID: 2800000, guid: 7e85cd714a1c6dc439660917807875d7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 70bf685c4d8736a4eae46ccc7d117a28, type: 3}
+      normalMap: {fileID: 2800000, guid: eff94f3fd7813ac41819f0bf8f7202ba, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: dc4d901c03a001f45ad18c22245d3db7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 8854d5307dc010f4881762e094aa315f, type: 3}
+      normalMap: {fileID: 2800000, guid: 819a49fca274d014d80ec5413a503864, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: 7e85cd714a1c6dc439660917807875d7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 604111fb8d8a3fd4a8a4786c5a591262, type: 3}
+      normalMap: {fileID: 2800000, guid: eff94f3fd7813ac41819f0bf8f7202ba, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: dc4d901c03a001f45ad18c22245d3db7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 30b7d49ce8b4798478ace85c113560df, type: 3}
+      normalMap: {fileID: 2800000, guid: 819a49fca274d014d80ec5413a503864, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: 7e85cd714a1c6dc439660917807875d7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 377b825953ab5f0459bb35e94b77232b, type: 3}
+      normalMap: {fileID: 2800000, guid: eff94f3fd7813ac41819f0bf8f7202ba, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: dc4d901c03a001f45ad18c22245d3db7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: dfd7c59ca65676047aae535a06bda386, type: 3}
+      normalMap: {fileID: 2800000, guid: 819a49fca274d014d80ec5413a503864, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: 7e85cd714a1c6dc439660917807875d7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 70bf685c4d8736a4eae46ccc7d117a28, type: 3}
+      normalMap: {fileID: 2800000, guid: eff94f3fd7813ac41819f0bf8f7202ba, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: dc4d901c03a001f45ad18c22245d3db7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 8854d5307dc010f4881762e094aa315f, type: 3}
+      normalMap: {fileID: 2800000, guid: 819a49fca274d014d80ec5413a503864, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: 7e85cd714a1c6dc439660917807875d7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 604111fb8d8a3fd4a8a4786c5a591262, type: 3}
+      normalMap: {fileID: 2800000, guid: eff94f3fd7813ac41819f0bf8f7202ba, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: dc4d901c03a001f45ad18c22245d3db7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 30b7d49ce8b4798478ace85c113560df, type: 3}
+      normalMap: {fileID: 2800000, guid: 819a49fca274d014d80ec5413a503864, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: 7e85cd714a1c6dc439660917807875d7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 377b825953ab5f0459bb35e94b77232b, type: 3}
+      normalMap: {fileID: 2800000, guid: eff94f3fd7813ac41819f0bf8f7202ba, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: dc4d901c03a001f45ad18c22245d3db7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: dfd7c59ca65676047aae535a06bda386, type: 3}
+      normalMap: {fileID: 2800000, guid: 819a49fca274d014d80ec5413a503864, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: 7e85cd714a1c6dc439660917807875d7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 70bf685c4d8736a4eae46ccc7d117a28, type: 3}
+      normalMap: {fileID: 2800000, guid: eff94f3fd7813ac41819f0bf8f7202ba, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: dc4d901c03a001f45ad18c22245d3db7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 8854d5307dc010f4881762e094aa315f, type: 3}
+      normalMap: {fileID: 2800000, guid: 819a49fca274d014d80ec5413a503864, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: 7e85cd714a1c6dc439660917807875d7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 604111fb8d8a3fd4a8a4786c5a591262, type: 3}
+      normalMap: {fileID: 2800000, guid: eff94f3fd7813ac41819f0bf8f7202ba, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: dc4d901c03a001f45ad18c22245d3db7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 30b7d49ce8b4798478ace85c113560df, type: 3}
+      normalMap: {fileID: 2800000, guid: 819a49fca274d014d80ec5413a503864, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: 7e85cd714a1c6dc439660917807875d7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 377b825953ab5f0459bb35e94b77232b, type: 3}
+      normalMap: {fileID: 2800000, guid: eff94f3fd7813ac41819f0bf8f7202ba, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: dc4d901c03a001f45ad18c22245d3db7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: dfd7c59ca65676047aae535a06bda386, type: 3}
+      normalMap: {fileID: 2800000, guid: 819a49fca274d014d80ec5413a503864, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: 7e85cd714a1c6dc439660917807875d7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 70bf685c4d8736a4eae46ccc7d117a28, type: 3}
+      normalMap: {fileID: 2800000, guid: eff94f3fd7813ac41819f0bf8f7202ba, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
+  - alphamap: {fileID: 2800000, guid: dc4d901c03a001f45ad18c22245d3db7, type: 3}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 8854d5307dc010f4881762e094aa315f, type: 3}
+      normalMap: {fileID: 2800000, guid: 819a49fca274d014d80ec5413a503864, type: 3}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d15cb4882f2e8cc41bd9a58dbc2aa897, type: 3}
+  m_Name: Missing Alphamap
+  m_EditorClassIdentifier: 
+  target: {fileID: 15600000, guid: 7bab07b7cfe3da94ab2d59b692aa1beb, type: 2}
+  textureDefinitions:
+  - alphamap: {fileID: 0}
+    splatPrototypeData:
+      texture: {fileID: 2800000, guid: 7cd568b16ef24ec42a5348f565468a2f, type: 3}
+      normalMap: {fileID: 0}
+      tileSize: {x: 15, y: 15}
+      tileOffset: {x: 0, y: 0}
+      metallic: 0
+      smoothness: 0
