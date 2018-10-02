@@ -1,0 +1,7 @@
+{
+    "name": "com.recklesscowboys.terrain-splatmap-profile",
+    "description": "Assign splatmap/weightmaps to Unity terrain.",
+    "version": "1.0.0-preview",
+    "unity": "2018.3",
+    "displayName": "Terrain Splatmap Profiles"
+}
